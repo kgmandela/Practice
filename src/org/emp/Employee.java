@@ -25,6 +25,9 @@ private void empAddress() {
 	// TODO Auto-generated method stub
 System.out.println("Employee Address is Tambaram");
 }
+
+//pass
+
 public static void main(String[] args) {
 	Employee emp=new Employee();
 	emp.empId();
